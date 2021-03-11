@@ -43,7 +43,7 @@ In your role as Holly Dickson, you will create a new Microsoft 365 group titled 
 
 12. On the **New group created** window, note the message that appears at the top of the page that indicates it may take up to 5 minutes before the group appears in the list of active groups. Select **Close**
 
-13. On the **Active groups** window, select **Refresh** on the menu bar to refresh the list of active groups. You may have to wait a few minutes and refresh again. Once the **Finance** group appears in the list, select the group.
+13. On the **Active groups** window, select **Refresh** on the menu bar to refresh the list of active groups. You may have to wait a few minutes and refresh again. Once the **PND Group** group appears in the list, select the group.
 
 14. For security purposes, you have decided to add Diego Siciliani as an additional owner of this group. In the **PND Group** pane that appears, the **General** tab is displayed by default. Select the **Members** tab. 
 
